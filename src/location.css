@@ -1,0 +1,13 @@
+.location{
+    display: flex;
+    justify-content: center;
+}
+
+.location p{
+    padding: 8px 20px;
+}
+
+.location p span{
+    font-weight: 700;
+    margin-right: 3px;
+}

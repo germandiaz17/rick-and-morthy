@@ -1,0 +1,43 @@
+.divCharacters{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.element{
+    background-color: #343841;
+    border-radius: 5px;
+    display: flex;
+    width: 48%;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+}
+
+.imageDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    border-radius: 5px;
+    overflow: hidden;
+    width: 50%;
+}
+
+.imgInfo{
+    width: 100%;
+}
+
+.infoDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    max-width: 50%;
+    min-width: 50%;
+}

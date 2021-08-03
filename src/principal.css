@@ -1,0 +1,9 @@
+.banner{
+    height: 60vh;
+    width: 100%;
+}
+
+.imgBanner{
+    width: 100%;
+    overflow: hidden;
+}
